@@ -1,4 +1,4 @@
-# ELM_Practice
+# Elm_Practice
 
 # Elm実習 まとめ
 
